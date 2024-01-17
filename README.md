@@ -19,7 +19,7 @@ Click "Use this template" to create a new repository with this repo as the initi
 1. Git clone this repository and enter to the repository directory:
 
 ```
-git clone https://github.com/BuildBearLabs/Catapulta.git
+git clone https://github.com/w3hc/Catapulta.git
 cd Catapulta
 ```
 
