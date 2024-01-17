@@ -46,7 +46,7 @@ npx catapulta wallet
 5. To deploy the contracts to the Ethereum Mainnet fork, run the following command. This command creates a Private Ethereum Mainnet fork from the latest block, deploys and verifies your contracts on Private Testnet.
 
 ```
- catapulta script scripts/DeployContracts.s.sol --fork buildbear --network main
+npx catapulta script scripts/DeployContracts.s.sol --fork buildbear --network main
 ```
   ![terminal](https://strapi.buildbear.io/uploads/Untitled_2023_10_30_T170835_510_cf10dd3085.png?updated_at=2023-10-30T11:39:25.357Z)
 
